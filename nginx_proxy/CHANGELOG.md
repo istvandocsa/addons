@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.1.2
+
+- Strict proxy configs
+
 ## 3.1.1
 
 - Hide server version banner
